@@ -1,0 +1,26 @@
+* {
+    background-color: #282c34;
+    color: #37b3c2;
+}
+
+.button {
+    height: 50px;
+    min-width: 60px;
+    text-align: center;
+    font-size: 25px;
+    margin: 10px;
+    color: tomato;
+}
+
+.button:hover {
+    color: #37b3c2;
+    background-color: #202020;
+    /* font-weight: 900; */
+    font-size: 30px;
+    /* box-sizing: border-box; */
+}
+
+.number {
+    font-size: 50px;
+    margin: 30px;
+}
